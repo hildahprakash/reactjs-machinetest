@@ -1,0 +1,21 @@
+.header-firstpart {
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.arrow {
+    width: 15px;
+    margin-right: 10px;
+}
+.hed {
+    margin-top: 10px;
+}
+.search {
+    width:15px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+}

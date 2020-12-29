@@ -1,0 +1,26 @@
+.row-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 30px;
+    margin: 30px 0;
+}
+.row-wrapper .each-item {
+    width: 30%;
+    overflow: hidden;
+}
+img {
+    width: 100%;
+
+}
+fas fa-arrow-left {
+    font-size:36px;
+}
+i.fas.fa-search {
+    float: right;
+    font-size:24px;
+}
+.item {
+    margin: 10px 0px;
+}
